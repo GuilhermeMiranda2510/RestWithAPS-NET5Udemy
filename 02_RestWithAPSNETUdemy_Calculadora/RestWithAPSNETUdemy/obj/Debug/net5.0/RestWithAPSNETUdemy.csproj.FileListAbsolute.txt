@@ -44,3 +44,13 @@ C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestW
 C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\obj\Debug\net5.0\ref\RestWithAPSNETUdemy.dll
 C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\obj\Debug\net5.0\RestWithAPSNETUdemy.pdb
 C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\obj\Debug\net5.0\RestWithAPSNETUdemy.genruntimeconfig.cache
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\Gui\Documents\Code\RestWithAPS-NET5Udemy\RestWithAPS-NET5Udemy\02_RestWithAPSNETUdemy_Calculadora\RestWithAPSNETUdemy\obj\Debug\net5.0\RestWithAPSNETUdemy.csproj.CopyComplete
